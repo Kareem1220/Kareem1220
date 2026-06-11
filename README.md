@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="city.gif" width="100%">
+  <img src="art pixel GIF.gif" width="100%">
 </p>
